@@ -1,5 +1,5 @@
 ---
-layout: coms352
+layout: class
 title: Teaching
 ---
 
