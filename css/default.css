@@ -225,7 +225,6 @@ h3.excerpt a {
 	width: 25%;
 }
 
-
 .clear {
 	clear: both;
 	height: 0px;
@@ -293,7 +292,7 @@ h6.vlist {
 /************ Footer ************/
 
 #footer {
-	border-top: 2px solid #888;
+	border-top: 4px solid #888;
 	padding-top: 5px;
 	margin: 12px auto;
 	color: #888;
