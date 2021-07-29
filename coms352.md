@@ -7,3 +7,4 @@ second_header: coms352_header.html
 COM S 352
 ---------
 
+
