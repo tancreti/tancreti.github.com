@@ -84,7 +84,7 @@ For programming projects, you may not
 
 A student found responsible for academic dishonesty will receive zero points for the work in which the dishonesty occurred.  In addition, the student is subject to sanctions according to the university policy on academic dishonesty, which can be found here.
 
-## COVID-19 health and safety requirements
+### COVID-19 Health and Safety Requirements
 Students are responsible for abiding by the university’s COVID-19 health and safety expectations. All students attending this class in-person are required to follow university policy regarding health, safety, and face coverings:
 
 * wear a cloth face covering in all university classrooms, laboratories, studios, and other in-person instructional settings and learning spaces. Cloth face coverings are additionally required to be worn indoors in all university buildings, and outdoors when other people are or may be present where physical distancing of at least 6 feet from others is not possible. Students with a documented health or medical condition that prevents them from wearing a cloth face covering should consult with Student Accessibility Services in the Dean of Students Office.

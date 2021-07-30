@@ -7,7 +7,7 @@ Fall 2021
 ---------
 [COM S 362: Object-Oriented Analysis and Design](coms362)
 
-[COM S 352: Operating Systems](coms352)
+[COM S 352: Operating Systems](coms352/coms352)
 
 COM S 227: Object-Oriented Programming
 
