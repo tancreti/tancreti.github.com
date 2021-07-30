@@ -4,16 +4,16 @@ title: COM S 352
 second_header: coms352-header.html
 ---
 
-Introduction to Operating Systems
----------------------------------
+### Introduction to Operating Systems
+
 Introduction to Operating Systems is an undergraduate-level introduction to topics in operating systems including system calls, processes, threads, concurrency, CPU scheduling, synchronization, deadlocks, memory management, file systems, networking, distributed systems and security.
 
-Course Activities
------------------
+### Course Activities
+
 The graded activities for the course are assignments, projects, a midterm exam and a final exam.
 
-Required Reading
-----------------
+### Required Reading
+
 Our main textbook is Operating Systems: Three Easy Pieces (OSTEP). There are selected readings from other sources. All books in this class are free to students in a digital format either from the author's website or through the library via O'Reilly for Higher Education.
 
 \[Arpaci-Dusseau18\]
@@ -34,8 +34,8 @@ Charles P. Pfleeger, Shari Lawrence Pfleeger and Jonathan Margulies. Security in
 Description: We will have selected readings that cover operating systems security.
 Availability: The book is available online from the library via O’Reilly for Higher Education.
 
-Online Resources
-----------------
+### Online Resources
+
 Compiler Explorer
 
 AnimOS CPU-Scheduling
