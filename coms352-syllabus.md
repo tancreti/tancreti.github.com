@@ -1,6 +1,6 @@
 ---
 layout: class
-title: COM S 352
+title: COM S 352 Syllabus
 second_header: coms352-header.html
 ---
 
