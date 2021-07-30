@@ -4,6 +4,11 @@
 	list-style-type: none;
 }
 
+.hlist2 {
+	margin: 20px;
+	list-style-type: none;
+}
+
 .hlist ul {
 	list-style-type: none;
 	display: inline;
