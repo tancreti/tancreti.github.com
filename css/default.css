@@ -80,7 +80,7 @@
 	text-decoration: none;
 }
 
-#class-header nav {
+#class-header {
 	padding:0.4rem;
 	background-color:#cc0000;
 	border-bottom: 9px solid #f1be48;
@@ -90,6 +90,11 @@
 	float:right;
 	margin:0px;
 	display:inline-block;
+}
+
+#class-header li {
+	list-style-type: none;
+	display: inline;
 }
 
 #class-header a {
