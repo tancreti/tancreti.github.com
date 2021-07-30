@@ -4,12 +4,6 @@
 	list-style-type: none;
 }
 
-.hlist2 {
-	margin: 0px;
-	list-style-type: none;
-	background-color:#cc0000;
-}
-
 .hlist ul {
 	list-style-type: none;
 	display: inline;
@@ -56,12 +50,6 @@
 	text-decoration: none;
 }
 
-#header form {
-	margin-top: 15px;
-	float: right;
-	width: 25%;
-}
-
 #header ul {
 	margin-top: 0px;
 	padding: 5px 0px 5px 0px;
@@ -90,6 +78,22 @@
 #header li a {
 	color: #000;
 	text-decoration: none;
+}
+
+#class-header nav {
+	padding:0.4rem;
+	background-color:#cc0000;
+	border-bottom: 9px solid #f1be48;
+}
+
+#class-header ul {
+	float:right;
+	margin:0px;
+	display:inline-block;
+}
+
+#class-header a {
+	color:#ffffff; 
 }
 
 body #Home #header #nav a.home,
