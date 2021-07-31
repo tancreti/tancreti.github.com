@@ -305,7 +305,17 @@ h6.vlist {
 	padding: 5px;
 }
 
-table tr:nth-child(even) {
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td {
+	text-align: left;
+	padding: 8px;
+}
+
+tbody tr:nth-child(odd) {
 	background-color: #f2f2f2;
 }
 
