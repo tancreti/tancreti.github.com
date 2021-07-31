@@ -1,7 +1,7 @@
 ---
 layout: class
 title: COM S 352 Schedule
-second_header: coms352-header.html
+header: coms352-header.html
 ---
 
 ### Com S 352 Schedule

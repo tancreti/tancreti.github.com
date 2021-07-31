@@ -1,7 +1,7 @@
 ---
 layout: class
 title: COM S 362
-second-header: coms362-header.html
+header: coms362-header.html
 ---
 
 ### Object-Oriented Analysis and Design
