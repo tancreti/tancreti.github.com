@@ -305,8 +305,8 @@ h6.vlist {
 	padding: 5px;
 }
 
-table tr:nth-child(2n) {
-	background-color: #f8f8f8;
+table tr:nth-child(even) {
+	background-color: #f2f2f2;
 }
 
 /************ Footer ************/
