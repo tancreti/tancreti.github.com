@@ -285,12 +285,12 @@ h6.vlist {
 
 .excerpt { }
 
-tbody tr td {
+.content tr td {
 	text-align: left;
 	padding: 8px;
 }
 
-tbody tr:nth-child(odd) {
+.content tr:nth-child(odd) {
 	background-color: #f2f2f2;
 }
 
