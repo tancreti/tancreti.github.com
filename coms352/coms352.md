@@ -1,7 +1,7 @@
 ---
 layout: class
 title: COM S 352
-header: coms352-header.html
+second-header: coms352-header.html
 ---
 
 ### Introduction to Operating Systems
