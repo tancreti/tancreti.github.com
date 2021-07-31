@@ -285,26 +285,6 @@ h6.vlist {
 
 .excerpt { }
 
-.meta {
-	display: block;
-	background-color: #EEEEEE;
-	border: 1px solid #CCCCCC;
-	color: #666666;
-	padding: 5px;
-}
-
-.final {
-	margin-top: 15px;
-}
-
-.note {
-	display: block;
-	background-color: #FFFF99;
-	border: 1px solid #CCCCCC;
-	color: black;
-	padding: 5px;
-}
-
 tbody tr td {
 	text-align: left;
 	padding: 8px;
