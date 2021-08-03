@@ -4,7 +4,7 @@ title: COM S 362 Syllabus
 header: coms362-header.html
 ---
 
-### Com S 362 Object Oriented Analysis and Design
+### Com S 362 Syllabus
 Fall 2021
 
 ### Lecture

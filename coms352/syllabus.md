@@ -4,7 +4,7 @@ title: COM S 352 Syllabus
 header: coms352-header.html
 ---
 
-### Com S 352 Introduction to Operating Systems
+### Com S 352 Syllabus
 Fall 2021
 
 ### Lecture

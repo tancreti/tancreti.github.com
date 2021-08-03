@@ -1,4 +1,4 @@
---
+---
 layout: class
 title: COM S 362 Schedule
 header: coms362-header.html
