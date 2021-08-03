@@ -13,7 +13,7 @@ Fall 2021
 
 * Instructor: Mathew Tan Creti
 * Office Hours: TBD and by appointment
-* Email: [tancreti@iastate.edu](tancreti@iastate.edu)
+* Email: [tancreti@iastate.edu](mailto:tancreti@iastate.edu)
 
 ### Teaching Assistants  
 
@@ -130,7 +130,7 @@ Iowa State University supports and upholds the First Amendment protection of [fr
 
 ### Accessibility Statement
 
-Iowa State University is committed to assuring that all educational activities are free from discrimination and harassment based on disability status. Students requesting accommodations for a documented disability are required to work directly with staff in Student Accessibility Services (SAS) to establish eligibility and learn about related processes before accommodations will be identified. After eligibility is established, SAS staff will create and issue a Notification Letter for each course listing approved reasonable accommodations. This document will be made available to the student and instructor either electronically or in hard-copy every semester. Students and instructors are encouraged to review contents of the Notification Letters as early in the semester as possible to identify a specific, timely plan to deliver/receive the indicated accommodations. Reasonable accommodations are not retroactive in nature and are not intended to be an unfair advantage. Additional information or assistance is available online at [www.sas.dso.iastate.edu](http://www.sas.dso.iastate.edu/), by contacting SAS staff by email at [accessibility@iastate.edu](accessibility@iastate.edu), or by calling 515-294-7220. Student Accessibility Services is a unit in the Dean of Students Office located at 1076 Student Services Building.
+Iowa State University is committed to assuring that all educational activities are free from discrimination and harassment based on disability status. Students requesting accommodations for a documented disability are required to work directly with staff in Student Accessibility Services (SAS) to establish eligibility and learn about related processes before accommodations will be identified. After eligibility is established, SAS staff will create and issue a Notification Letter for each course listing approved reasonable accommodations. This document will be made available to the student and instructor either electronically or in hard-copy every semester. Students and instructors are encouraged to review contents of the Notification Letters as early in the semester as possible to identify a specific, timely plan to deliver/receive the indicated accommodations. Reasonable accommodations are not retroactive in nature and are not intended to be an unfair advantage. Additional information or assistance is available online at [www.sas.dso.iastate.edu](http://www.sas.dso.iastate.edu/), by contacting SAS staff by email at [accessibility@iastate.edu](mailto:accessibility@iastate.edu), or by calling 515-294-7220. Student Accessibility Services is a unit in the Dean of Students Office located at 1076 Student Services Building.
 
 ### Discrimination and Harassment
 
@@ -146,7 +146,7 @@ Iowa State University welcomes diversity of religious beliefs and practices, rec
 
 ### Contact Information for Academic Issues
 
-If you are experiencing, or have experienced, a problem with any of the above statements,  email [academicissues@iastate.edu](academicissues@iastate.edu)
+If you are experiencing, or have experienced, a problem with any of the above statements,  email [mailto:academicissues@iastate.edu](academicissues@iastate.edu)
 
 (Important note to faculty: The email address for contact information is monitored and answered through the Office of the Senior Vice President and Provost)
 

@@ -16,7 +16,7 @@ Section 2: Thursday 12:40 pm - 1:30 pm
  Instructor: Matthew Tan Creti
 
 Office Hours: TBD and by appointment
-Email: [tancreti@iastate.edu](tancreti@iastate.edu)
+Email: [tancreti@iastate.edu](mailto:tancreti@iastate.edu)
 
 ### Teaching Assistants
 TBD
@@ -29,7 +29,7 @@ Office Hours: TBD
 ### Prerequisites
 COM S 321 or CPR E 381, COM S 327 or CPR E 288, ENGL 250
 
-(The completed Prereq Waiver Form must be sent to csadvising@iastate.edu no later than Wednesday August 26, 2020 by 5 pm). Contact the instructor of the section you are registered to if you have questions.
+(The completed Prereq Waiver Form must be sent to [csadvising@iastate.edu](mailto:csadvising@iastate.edu) no later than Wednesday August 26, 2020 by 5 pm). Contact the instructor of the section you are registered to if you have questions.
 
 ### Textbook
 Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau. Operating Systems: Three Easy Pieces, 2018.
@@ -110,11 +110,11 @@ Iowa State University supports and upholds the First Amendment protection of [fr
 
 ### Accessibility Statement
 
-Iowa State University is committed to assuring that all educational activities are free from discrimination and harassment based on disability status. Students requesting accommodations for a documented disability are required to work directly with staff in Student Accessibility Services (SAS) to establish eligibility and learn about related processes before accommodations will be identified. After eligibility is established, SAS staff will create and issue a Notification Letter for each course listing approved reasonable accommodations. This document will be made available to the student and instructor either electronically or in hard-copy every semester. Students and instructors are encouraged to review contents of the Notification Letters as early in the semester as possible to identify a specific, timely plan to deliver/receive the indicated accommodations. Reasonable accommodations are not retroactive in nature and are not intended to be an unfair advantage. Additional information or assistance is available online at [www.sas.dso.iastate.edu](http://www.sas.dso.iastate.edu/), by contacting SAS staff by email at [accessibility@iastate.edu](accessibility@iastate.edu), or by calling 515-294-7220. Student Accessibility Services is a unit in the Dean of Students Office located at 1076 Student Services Building.
+Iowa State University is committed to assuring that all educational activities are free from discrimination and harassment based on disability status. Students requesting accommodations for a documented disability are required to work directly with staff in Student Accessibility Services (SAS) to establish eligibility and learn about related processes before accommodations will be identified. After eligibility is established, SAS staff will create and issue a Notification Letter for each course listing approved reasonable accommodations. This document will be made available to the student and instructor either electronically or in hard-copy every semester. Students and instructors are encouraged to review contents of the Notification Letters as early in the semester as possible to identify a specific, timely plan to deliver/receive the indicated accommodations. Reasonable accommodations are not retroactive in nature and are not intended to be an unfair advantage. Additional information or assistance is available online at [www.sas.dso.iastate.edu](http://www.sas.dso.iastate.edu/), by contacting SAS staff by email at [accessibility@iastate.edu](mailto:accessibility@iastate.edu), or by calling 515-294-7220. Student Accessibility Services is a unit in the Dean of Students Office located at 1076 Student Services Building.
 
 ### Discrimination and Harassment
 
-Iowa State University does not discriminate on the basis of race, color, age, ethnicity, religion, national origin, pregnancy, sexual orientation, gender identity, genetic information, sex, marital status, disability, or status as a U.S. Veteran. Inquiries regarding non-discrimination policies may be directed to Office of Equal Opportunity, 3410 Beardshear Hall, 515 Morrill Road, Ames, Iowa 50011, Tel. 515-294-7612,  Hotline 515-294-1222, email [eooffice@iastate.edu](eooffice@mail.iastate.edu)
+Iowa State University does not discriminate on the basis of race, color, age, ethnicity, religion, national origin, pregnancy, sexual orientation, gender identity, genetic information, sex, marital status, disability, or status as a U.S. Veteran. Inquiries regarding non-discrimination policies may be directed to Office of Equal Opportunity, 3410 Beardshear Hall, 515 Morrill Road, Ames, Iowa 50011, Tel. 515-294-7612,  Hotline 515-294-1222, email [eooffice@iastate.edu](mailto:eooffice@mail.iastate.edu)
 
 ### Prep Week
 
@@ -126,7 +126,7 @@ Iowa State University welcomes diversity of religious beliefs and practices, rec
 
 ### Contact Information for Academic Issues
 
-If you are experiencing, or have experienced, a problem with any of the above statements,  email [academicissues@iastate.edu](academicissues@iastate.edu)
+If you are experiencing, or have experienced, a problem with any of the above statements,  email [academicissues@iastate.edu](mailto:academicissues@iastate.edu)
 
 (Important note to faculty: The email address for contact information is monitored and answered through the Office of the Senior Vice President and Provost)
 
