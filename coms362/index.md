@@ -67,7 +67,7 @@ Availability: The full text is online from the library via O’Reilly for Higher
 
 Alexander Shvets. Dive Into Design Patterns, 2020.
 Description: We use this book as a reference to the Gang of Four design patterns.
-Availability: The contents of the book are available for free in a web format at https://refactoring.guru/design-patterns. If you prefer a book format or want to support the author, consider purchasing the ebook.
+Availability: The contents of the book are available for free in a web format at [https://refactoring.guru/design-patterns](https://refactoring.guru/design-patterns). If you prefer a book format or want to support the author, consider [purchasing the ebook](https://refactoring.guru/design-patterns/book).
 
 \[WirfsBrockResponsibilityDriven03\]
 
