@@ -16,10 +16,10 @@ The course is roughly split into halves, in the first half we cover the software
 
 _What will you get from this course?_ The goal of this course is to give you the knowledge and skills to:
 
-make software that is "open for extension, but closed for modification," and understand why this one weird trick is the key to your success as a software engineer
-communicate effectively and understand complex code using UML diagrams drawn with intention and meaning
-approach a large code base with confidence
-apply design principles and patterns that lead to successful software
+* make software that is "open for extension, but closed for modification," and understand why this one weird trick is the key to your success as a software engineer
+* communicate effectively and understand complex code using UML diagrams drawn with intention and meaning
+* approach a large code base with confidence
+* apply design principles and patterns that lead to successful software
 
 ### Prerequisites
 The prerequsites for this course are COM S 228, MATH 165 and ENGL 250. The project is in Java, we will cover any advanced concepts as they are needed to implement design patterns, for example, dynamic dispatch, however, we assume you are already proficient with the basics of Java. This is a class about design, not about code style or practices. We expect the code you produce to conform to good coding practices, and we assume you have already learned how to do this in prerequisite courses. A good resource is Clean Code by Robert Martin [MartinCleanCode08].
