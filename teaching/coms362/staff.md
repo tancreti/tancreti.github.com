@@ -1,6 +1,7 @@
 ---
 layout: class
 title: COM S 362 Staff
+class-name: COM S 362
 header: coms362-header.html
 ---
 

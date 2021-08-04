@@ -1,6 +1,7 @@
 ---
 layout: class
 title: COM S 362 Syllabus
+class-name: COM S 362
 header: coms362-header.html
 ---
 

@@ -1,77 +1,97 @@
 ---
 layout: class
-title: COM S 352 Syllabus
-class-name: COM S 352
-header: coms352-header.html
+title: COM S 362 Syllabus
+class-name: COM S 362 (Spring 2021)
+header: coms362-header.html
 ---
 
-### Com S 352 Syllabus
+### Com S 362 Syllabus
 Fall 2021
 
 ### Lecture
-Monday, Wednesday and Friday 12:05pm - 12:55pm Carver 0305
 
-### Recitation
-Section 1: Thursday 8:00 am - 8:50 am
-Section 2: Thursday 12:40 pm - 1:30 pm
- Instructor: Matthew Tan Creti
+### Instructor
 
-Office Hours: TBD and by appointment
-Email: [tancreti@iastate.edu](mailto:tancreti@iastate.edu)
+* Instructor: Mathew Tan Creti
+* Office Hours: TBD and by appointment
+* Email: [tancreti@iastate.edu](mailto:tancreti@iastate.edu)
 
-### Teaching Assistants
+### Teaching Assistants  
+
 TBD
 
 Office Hours: TBD
+
 TBD
 
 Office Hours: TBD
+
+TBD
+
+Office Hours: TBD
+ 
 
 ### Prerequisites
-COM S 321 or CPR E 381, COM S 327 or CPR E 288, ENGL 250
 
-(The completed Prereq Waiver Form must be sent to [csadvising@iastate.edu](mailto:csadvising@iastate.edu) no later than Wednesday August 26, 2020 by 5 pm). Contact the instructor of the section you are registered to if you have questions.
+Minimum of C- in COM S 228 and MATH 165; ENGL 250
 
 ### Textbook
-Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau. Operating Systems: Three Easy Pieces, 2018.
-http://pages.cs.wisc.edu/~remzi/OSTEP/.
+
+No required textbook, we will be reading from multiple books available virtually through the library.
 
 ### Course Description
-This course introduces the internal operation of operating systems. In particular, the course will cover role of operating system, processes and threads, process synchronization, CPU scheduling, deadlocks, memory management, file systems, security and protection, and the basics of networking.
 
-### Recitations
-Recitations start in week two. Recitations will be used to clarify lectures, discuss topics relevant to assignments, solve problems, and discuss homework solutions. Attendance to recitations are encouraged but not required.
+Object-oriented requirements analysis and systems design. Design notations such as the Unified Modeling Language. Design Patterns. Group design and programming with large programming projects.
+
+### Learning Objectives
+
+The primary objectives of this course are:
+
+* To familiarize students with the vocabulary, concepts, diagramming techniques, current thought, and process related to object-oriented design.
+* To improve students’ ability to evaluate designs against common design objectives (e.g., testability, maintainability, extensibility).
+* To increase students’ familiarity with important code and architectural design patterns.
+* To sensitize students to practices and code characteristics that increase cost of change (e.g., through anti-patterns and code smells.)
 
 ### Homework
-There will be 10 homework. A homework is posted on every Friday and due on the following Friday except that no homework will be due in the midterm exam weeks and in the dead week. Homework must be typed and submitted on canvas.
 
-### Programming Projects
-There will be two programming projects using the C programming language. The following policies will be applied to both projects:
+During the first half of the semester, you will be asked to complete a readings and to submit a homework assignment nearly every week. There will also be in-class group activities during Friday Webex discussions.
 
-Source code must include proper documentation to receive full credit.
-All projects require the use of makefiles, such that the TAs will be able to build your executable programs by simply typing “make” command.
-Source code must compile and run on the Linux server pyrite.cs.iastate.edu, which will be used for grading. Programs that do not compile and run on pyrite will receive zero points.
-Project statements will provide specifications. However, implementation details may not be specified. It will be your responsibility to figure out the implementation approaches.
-You are responsible for thoroughly testing and debugging your code. Samples given in the project descriptions are for illustration purpose only. The graders may try to break your code by subjecting it to bizarre test cases.
+During the second half of the semester, you will again have weekly readings (though smaller) and group project deliverables.
+
+### Project
+
+In the second half of the semester, you will work on a team to complete multiple iterations of a project, extending and refactoring a "large" existing code base while focusing on team-based iterative development and applying design principles and patterns. You may find the project significantly different than what you have experienced in other project-based courses, you will be writing very little code, we are intentionally not building something new, we are focused on design improvements.
+
+The project is in Java, we will cover any advanced concepts as they are needed to implement design patterns, for example, dynamic dispatch, however, we assume you are already proficient with the basics of Java. This is a class about design, not about code style or practices. We expect the code you produce to conform to good coding practices, and we assume you have already learned how to do this in prerequisite courses.
 
 ### Exams
-There will be one midterm exam and one final exam. The final exam will be given in the final exam week according to the university’s final exam schedule. The final exam will cover the entire course, but is weighted more heavily toward the material covered after the second midterm exam.
+
+There will be one midterm exam and one final exam. The final exam will be given in the final exam week according to the university’s final exam schedule. The final exam will cover the entire course, but is weighted more heavily toward the material covered after the midterm exam.
 
 ### Grading
-Your letter grade in this course will be based on homework, programming projects, and exams.
 
-Homework                       30%
-Programming projects     20%
-Midterm exam                 20%
-Final exam                       30%
-Letter grades are assigned relative to overall class performance, with borderline cases influenced by participation in class and recitation.
+Your letter grade in this course will be based on homework and in-class activities, a programming project, and exams.
 
-### Late policy
-Homework less than one day late is subject to a 10% penalty. Homework more than one day late will not be accepted.
+Homework and In-Class Activities	30%
+Project	30%
+Midterm exam	15%
+Final exam	25%
+Letter grades are assigned relative to overall class performance, with borderline cases influenced by participation in class.
 
-Late programming projects are penalized 10% per day for up to 3 days. Programming projects more than 3 days late will not be accepted.
+### Grading Questions/Errors
+
+If you believe an item has not been scored correctly, you must notify the Instructor in writing (email will do), with a description of the error and your explanation of why you think it is wrong, within two weeks of the score being posted to canvas. This assures that we can correct the grade while everyone still remembers the circumstances and also avoids the administrative complications associated with correcting grades after certain reporting deadlines.
+
+### Late Deliverables Policy
+
+Students are expected to submit deliverables on time. Some homework solutions will be posted after the due date, and other deliverables are dependent upon previous deliverables.
+
+Late homework are penalized 5% per day for up to 3 days. Homework more than 3 days late will not be accepted.
+
+The project will have deliverables that need to be completed for each iteration. Your grade will be based on whatever you have check into github at the iteration deadline.
 
 ### Grade Appeal Policy
+
 You may appeal a grade within ONE WEEK of grade announcement. Appeals for exam grades will be handled by the instructor. Appeals for homework and programming projects grades will be handled by the TA who graded your work. If you disagree with TA’s decision, you may appeal to the instructor within ONE WEEK of receiving TA’s decision.
 
 ### Academic Honesty
@@ -115,7 +135,7 @@ Iowa State University is committed to assuring that all educational activities a
 
 ### Discrimination and Harassment
 
-Iowa State University does not discriminate on the basis of race, color, age, ethnicity, religion, national origin, pregnancy, sexual orientation, gender identity, genetic information, sex, marital status, disability, or status as a U.S. Veteran. Inquiries regarding non-discrimination policies may be directed to Office of Equal Opportunity, 3410 Beardshear Hall, 515 Morrill Road, Ames, Iowa 50011, Tel. 515-294-7612,  Hotline 515-294-1222, email [eooffice@iastate.edu](mailto:eooffice@mail.iastate.edu)
+Iowa State University does not discriminate on the basis of race, color, age, ethnicity, religion, national origin, pregnancy, sexual orientation, gender identity, genetic information, sex, marital status, disability, or status as a U.S. Veteran. Inquiries regarding non-discrimination policies may be directed to Office of Equal Opportunity, 3410 Beardshear Hall, 515 Morrill Road, Ames, Iowa 50011, Tel. 515-294-7612,  Hotline 515-294-1222, email [eooffice@iastate.edu](eooffice@mail.iastate.edu)
 
 ### Prep Week
 
@@ -127,7 +147,7 @@ Iowa State University welcomes diversity of religious beliefs and practices, rec
 
 ### Contact Information for Academic Issues
 
-If you are experiencing, or have experienced, a problem with any of the above statements,  email [academicissues@iastate.edu](mailto:academicissues@iastate.edu)
+If you are experiencing, or have experienced, a problem with any of the above statements,  email [mailto:academicissues@iastate.edu](academicissues@iastate.edu)
 
 (Important note to faculty: The email address for contact information is monitored and answered through the Office of the Senior Vice President and Provost)
 

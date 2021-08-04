@@ -1,7 +1,7 @@
 ---
 layout: class
 title: COM S 352 Staff
-class-name: COM S 352
+class-name: COM S 352 (Fall 2020)
 header: coms352-header.html
 ---
 
