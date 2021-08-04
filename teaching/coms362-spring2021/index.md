@@ -1,8 +1,7 @@
 ---
 layout: class
-title: COM S 362
-class-name: COM S 362 (Spring 2021)
-header: coms362-header.html
+title: COM S 362 (Spring 2021)
+header: coms362-spring2021-header.html
 ---
 
 ### Object-Oriented Analysis and Design

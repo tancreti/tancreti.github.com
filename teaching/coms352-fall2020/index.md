@@ -1,8 +1,7 @@
 ---
 layout: class
 title: COM S 352 (Fall 2020)
-class-name: COM S 352 (Fall 2020)
-header: coms352-header.html
+header: coms352-fall2020-header.html
 ---
 
 ### Introduction to Operating Systems
