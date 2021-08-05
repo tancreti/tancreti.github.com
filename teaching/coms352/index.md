@@ -19,19 +19,19 @@ Our main textbook is Operating Systems: Three Easy Pieces (OSTEP). There are sel
 
 \[Arpaci-Dusseau18\]
 
-Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau. Operating Systems: Three Easy Pieces, 2018.
+> Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau. Operating Systems: Three Easy Pieces, 2018.
 Description: This book covers the fundamental concepts of operating systems.
 Availability: It is available for free on the author's website or you can buy a print version, visit [https://pages.cs.wisc.edu/~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/).
 
 \[Peterson11\]
 
-Larry L. Peterson and Bruce S. Davie. Computer Networks, 5th Edition, 2011.
+> Larry L. Peterson and Bruce S. Davie. Computer Networks, 5th Edition, 2011.
 Description: We will have selected readings that cover the basic concepts of computer networking.
 Availability: The book is available online from the library via O’Reilly for Higher Education.
 
 \[Pfleeger15\]
 
-Charles P. Pfleeger, Shari Lawrence Pfleeger and Jonathan Margulies. Security in Computing, 2015.
+> Charles P. Pfleeger, Shari Lawrence Pfleeger and Jonathan Margulies. Security in Computing, 2015.
 Description: We will have selected readings that cover operating systems security.
 Availability: The book is available online from the library via O’Reilly for Higher Education.
 
