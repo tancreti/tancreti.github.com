@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-<img src="images/GreatBlueHeron.png" alt="Photograph of a Great Blue Heron, taken from my back yard." title="Great Blue Heron" class="center"/>
+<img src="images/tancreti-photo.png" alt="Photo of Matthew Tan Creti." title="Matthew Tan Creti" class="center"/>
 
-I’m Matthew Tan Creti, a computer software and hardware developer and university lecturer.
-This site is dedicated to the open source software and hardware projects on which I have worked. 
-
+I am an Assistant Teaching Professor in the Department of Computer Science at Iowa State University. On this site you will find information about my teaching and projects. My faculty page is [https://faculty.sites.iastate.edu/tancreti](https://faculty.sites.iastate.edu/tancreti).
