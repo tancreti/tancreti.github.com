@@ -23,4 +23,4 @@ Fall 2020
 
 Spring 2020
 -----------
-[COM S 362: Object-Oriented Analysis and Design](coms362/)
+COM S 362: Object-Oriented Analysis and Design

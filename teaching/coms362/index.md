@@ -31,69 +31,91 @@ There is no single textbook for this course, instead we will have selected readi
 \[BoochOOAD07\]
 
 > Grady Booch, Robert A. Maksimchuk, Michael W. Engle, Bobbi J. Young, Jim Conallen and Kelli A. Houston. Object-Oriented Analysis and Design with Applications, 3rd Edition, 2007.
-Description: We have selected readings covering basic principles of object-oriented programming.
-Availability: The full text is online from the library via O’Reilly for Higher Education.
+
+> Description: We have selected readings covering basic principles of object-oriented programming.
+
+> Availability: The full text is online from the library via O’Reilly for Higher Education.
 
 \[FowlerRefactoring18\]
 
 > Martin Fowler. Refactoring: Improving the Design of Existing Code, Second Edition, 2018.
-Description: We have selected readings covering code smells.
-Availability: The full text is online from the library via O’Reilly for Higher Education.
+
+> Description: We have selected readings covering code smells.
+
+> Availability: The full text is online from the library via O’Reilly for Higher Education.
 
 \[FowlerUML03\]
 
 > Martin Fowler. UML Distilled: A Brief Guide to the Standard Object Modeling Language, Third Edition, 2003.
-Description: We use this book as a reference to UML. One of the useful features of the print version of the book is the quick reference diagrams printed on the inside cover, in the ebook you will find this material in the section called "Diagrams".
-Availability: The full text is online from the library via O’Reilly for Higher Education.
+
+> Description: We use this book as a reference to UML. One of the useful features of the print version of the book is the quick reference diagrams printed on the inside cover, in the ebook you will find this material in the section called "Diagrams".
+
+> Availability: The full text is online from the library via O’Reilly for Higher Education.
 
 \[LarmanOOAD04\]
 
 > Craig Larman. Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development, Third Edition, 2004.
-Description: We have selected readings covering Agile, UP, domain analysis and GRASP.
-Availability: The full text is online from the library via O’Reilly for Higher Education.
+
+> Description: We have selected readings covering Agile, UP, domain analysis and GRASP.
+
+> Availability: The full text is online from the library via O’Reilly for Higher Education.
 
 \[MartinCleanArchitecture17\]
 
 > Robert C. Martin. Clean Architecture: A Craftsman's Guide to Software Structure and Design, First Edition, 2017.
-Description: We have selected readings covering SOLID.
-Availability: The full text is online from the library via O’Reilly for Higher Education.
+
+> Description: We have selected readings covering SOLID.
+
+> Availability: The full text is online from the library via O’Reilly for Higher Education.
 
 \[RichardsArchitecture20\]
 
 > Mark Richards. Fundamentals of Software Architecture: An Engineering Approach, 2020.
-Description: We have selected readings covering architectural patterns.
-Availability: The full text is online from the library via O’Reilly for Higher Education.
+
+> Description: We have selected readings covering architectural patterns.
+
+> Availability: The full text is online from the library via O’Reilly for Higher Education.
 
 \[ShvetsPatterns20\]
 
 > Alexander Shvets. Dive Into Design Patterns, 2020.
-Description: We use this book as a reference to the Gang of Four design patterns.
-Availability: The contents of the book are available for free in a web format at [https://refactoring.guru/design-patterns](https://refactoring.guru/design-patterns). If you prefer a book format or want to support the author, consider [purchasing the ebook](https://refactoring.guru/design-patterns/book).
+
+> Description: We use this book as a reference to the Gang of Four design patterns.
+
+> Availability: The contents of the book are available for free in a web format at [https://refactoring.guru/design-patterns](https://refactoring.guru/design-patterns). If you prefer a book format or want to support the author, consider [purchasing the ebook](https://refactoring.guru/design-patterns/book).
 
 \[WirfsBrockResponsibilityDriven03\]
 
 > Rebecca Wirfs-Brock and Alan McKean. Object Design: Roles, Responsibilities, and Collaborations, 2003.
-Description: We have selected readings covering responsibility-driven design and CRC cards.
-Availability: The full text is online from the library via O’Reilly for Higher Education.
+
+> Description: We have selected readings covering responsibility-driven design and CRC cards.
+
+> Availability: The full text is online from the library via O’Reilly for Higher Education.
 
 ### Optional Reading
 \[GammaPatterns95\]
 
 > Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides. Design Patterns: Elements of Reusable Object-Oriented Software, 1995.
-Description: Known as the book written by the "Gang of Four", it catalogs 23 object-oriented design patterns that have become the most widely referenced collection of design patterns. The downside is that it uses an archaic (pre-UML) modeling notation and the examples are oriented to the C++ (prior to standardization and C++11) programming language, which makes it unsuitable for an undergraduate-level course. However, you may find it to be a valuable resource.
-Availability: The full text is online from the library via O’Reilly for Higher Education.
+
+> Description: Known as the book written by the "Gang of Four", it catalogs 23 object-oriented design patterns that have become the most widely referenced collection of design patterns. The downside is that it uses an archaic (pre-UML) modeling notation and the examples are oriented to the C++ (prior to standardization and C++11) programming language, which makes it unsuitable for an undergraduate-level course. However, you may find it to be a valuable resource.
+
+> Availability: The full text is online from the library via O’Reilly for Higher Education.
 
 \[GrandPatterns02\]
 
 > Mark Grand. Patterns in Java Volume 1: A Catalog of Reusable Design Patterns Illustrated with UML, Second Edition, 2002.
-Description: Although it has some flaws, among all books specifically using Java and UML, it has the best coverage of the Gang of Four design patterns.
-Availability: The book is not available at the library but can be purchased as an ebook or in print from the publisher.
+
+> Description: Although it has some flaws, among all books specifically using Java and UML, it has the best coverage of the Gang of Four design patterns.
+
+> Availability: The book is not available at the library but can be purchased as an ebook or in print from the publisher.
 
 \[MartinCleanCode08\]
 
 > Robert C. Martin. Clean Code: A Handbook of Agile Software Craftsmanship, 2008.
-Description: We expect the code you produce to conform to good coding practices, and we assume you have already learned how to do this in prerequisite courses. In any case, this book is a good resource.
-Availability: The full text is online from the library via O’Reilly for Higher Education.
+
+> Description: We expect the code you produce to conform to good coding practices, and we assume you have already learned how to do this in prerequisite courses. In any case, this book is a good resource.
+
+> Availability: The full text is online from the library via O’Reilly for Higher Education.
 
 ### Acknowledgements
 Robert Ward is responsible for much of the structure of this course in its current form. I had the privilege of co-teaching with him and learning an incredible amount about software engineering and teaching, during my first semester as a university lecturer.
