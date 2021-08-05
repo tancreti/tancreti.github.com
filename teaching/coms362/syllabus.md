@@ -10,6 +10,10 @@ Fall 2021
 
 ### Lecture
 
+Tue Thu	4:10 PM - 5:25 PM
+
+CARVER 0305
+
 ### Instructor
 
 * Instructor: Mathew Tan Creti
