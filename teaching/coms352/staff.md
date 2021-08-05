@@ -5,7 +5,7 @@ class-name: COM S 352
 header: coms352-header.html
 ---
 
-### Com S 352 Staff
+## Com S 352 Staff
 
 All staff can be contacted via private message on Piazza.
 

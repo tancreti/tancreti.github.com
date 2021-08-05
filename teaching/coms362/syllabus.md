@@ -5,7 +5,7 @@ class-name: COM S 362
 header: coms362-header.html
 ---
 
-### Com S 362 Syllabus
+## Com S 362 Syllabus
 Fall 2021
 
 ### Lecture

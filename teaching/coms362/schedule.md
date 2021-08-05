@@ -5,13 +5,13 @@ class-name: COM S 362
 header: coms362-header.html
 ---
 
-### Com S 362 Schedule
+## Com S 362 Schedule
 
 | Week                       | Main Topics                               | Reading                   | Homework |
 | -------------------------- | ----------------------------------------- | ------------------------- | -------- |
 | Week 1<br>Aug 23-27<br>    | Complexity and the Object Model           | \[BoochOOAD07\]<br>Ch. 1, 2 (pp. 7-12, 41-64)<br>\[BrooksMythicalManMonth95\]<br>Ch. 16 "No Silber Bullet"                                     |          |
-| Week 2<br>Aug 30-Sep 3<br> | Code Smells and UP                        | \[FowlerRefactoring18\]<br>Ch. 3(pp. 71-74, 78-79, 82-83)<br>\[LarmanOOAD04\]<br>Ch. 1, 2(pp. 3-11, 19-36)                                     |          |
-| Week 3<br>Sep 6-10<br>     | Analysis and Responsibility-Driven Design | \[LarmanOOAD04\]<br>Ch. 6(pp. 61-75)\[WirfsBrockResponsibilityDriven03\]<br>Ch. 2, 5 (pp. 61-70, 176-183)                                      |          |
+| Week 2<br>Aug 30-Sep 3<br> | Code Smells and UP                        | \[FowlerRefactoring18\]<br>Ch. 3 (pp. 71-74, 78-79, 82-83)<br>\[LarmanOOAD04\]<br>Ch. 1, 2(pp. 3-11, 19-36)                                    |          |
+| Week 3<br>Sep 6-10<br>     | Analysis and Responsibility-Driven Design | \[LarmanOOAD04\]<br>Ch. 6 (pp. 61-75)<br>\[WirfsBrockResponsibilityDriven03\]<br>Ch. 2, 5 (pp. 61-70, 176-183)                                 |          |
 | Week 4<br>Sep 13-17<br>    | Domain Model and GRASP                    | \[LarmanOOAD04\]<br>Ch. 9, 17 (pp. 134-158, 281-291)                                                                                           |          |
 | Week 5<br>Sep 27-Oct 1<br> | SOILD Design Principles | \[MartinCleanArchitecture17\]<br>Ch. 8, 9, 10, 11                                                                                                                |          |
 | Week 6<br>Oct 4-8<br>      | UML | \[Fowler03\]<br>Ch. 3, 4, 5, 12 (pp.35-52, 53-61, 66-72, 131-133)                                                                                                                    |          |

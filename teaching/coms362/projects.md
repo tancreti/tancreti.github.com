@@ -5,5 +5,5 @@ class-name: COM S 362
 header: coms362-header.html
 ---
 
-### Com S 362 Projects
+## Com S 362 Projects
 
