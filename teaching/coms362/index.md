@@ -5,7 +5,7 @@ class-name: COM S 362
 header: coms362-header.html
 ---
 
-### Object-Oriented Analysis and Design
+## Object-Oriented Analysis and Design
 Object-Oriented Analysis and Design covers an introduction to requirements analysis and systems design. Topics include:
 
 * Software Development Process - Agile, Unified Process and Scrum

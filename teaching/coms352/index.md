@@ -43,6 +43,6 @@ Our main textbook is Operating Systems: Three Easy Pieces (OSTEP). There are sel
 
 ### Online Resources
 
-Compiler Explorer
+[Compiler Explorer](https://godbolt.org)
 
-AnimOS CPU-Scheduling
+[AnimOS CPU-Scheduling](https://ess.cs.tu-dortmund.de/Software/AnimOS/CPU-Scheduling)
