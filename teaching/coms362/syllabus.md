@@ -5,8 +5,7 @@ class-name: COM S 362
 header: coms362-header.html
 ---
 
-## Com S 362 Syllabus
-Fall 2021
+## Com S 362 Syllabus (Fall 2021)
 
 ### Lecture
 
@@ -29,11 +28,6 @@ Office Hours: TBD
 TBD
 
 Office Hours: TBD
-
-TBD
-
-Office Hours: TBD
- 
 
 ### Prerequisites
 
