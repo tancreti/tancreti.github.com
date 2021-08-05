@@ -48,11 +48,11 @@ There will be 10 homework. A homework is posted on every Friday and due on the f
 ### Programming Projects
 There will be two programming projects using the C programming language. The following policies will be applied to both projects:
 
-Source code must include proper documentation to receive full credit.
-All projects require the use of makefiles, such that the TAs will be able to build your executable programs by simply typing “make” command.
-Source code must compile and run on the Linux server pyrite.cs.iastate.edu, which will be used for grading. Programs that do not compile and run on pyrite will receive zero points.
-Project statements will provide specifications. However, implementation details may not be specified. It will be your responsibility to figure out the implementation approaches.
-You are responsible for thoroughly testing and debugging your code. Samples given in the project descriptions are for illustration purpose only. The graders may try to break your code by subjecting it to bizarre test cases.
+* Source code must include proper documentation to receive full credit.
+* All projects require the use of makefiles, such that the TAs will be able to build your executable programs by simply typing “make” command.
+* Source code must compile and run on the Linux server pyrite.cs.iastate.edu, which will be used for grading. Programs that do not compile and run on pyrite will receive zero points.
+* Project statements will provide specifications. However, implementation details may not be specified. It will be your responsibility to figure out the implementation approaches.
+* You are responsible for thoroughly testing and debugging your code. Samples given in the project descriptions are for illustration purpose only. The graders may try to break your code by subjecting it to bizarre test cases.
 
 ### Exams
 There will be one midterm exam and one final exam. The final exam will be given in the final exam week according to the university’s final exam schedule. The final exam will cover the entire course, but is weighted more heavily toward the material covered after the second midterm exam.
@@ -60,10 +60,11 @@ There will be one midterm exam and one final exam. The final exam will be given 
 ### Grading
 Your letter grade in this course will be based on homework, programming projects, and exams.
 
-Homework                       30%
-Programming projects     20%
-Midterm exam                 20%
-Final exam                       30%
+* Homework	30%
+* Programming projects	20%
+* Midterm exam	20%
+* Final exam	30%
+
 Letter grades are assigned relative to overall class performance, with borderline cases influenced by participation in class and recitation.
 
 ### Late policy
@@ -72,7 +73,7 @@ Homework less than one day late is subject to a 10% penalty. Homework more than 
 Late programming projects are penalized 10% per day for up to 3 days. Programming projects more than 3 days late will not be accepted.
 
 ### Grade Appeal Policy
-You may appeal a grade within ONE WEEK of grade announcement. Appeals for exam grades will be handled by the instructor. Appeals for homework and programming projects grades will be handled by the TA who graded your work. If you disagree with TA’s decision, you may appeal to the instructor within ONE WEEK of receiving TA’s decision.
+You may appeal a grade within __ONE WEEK__ of grade announcement. Appeals for exam grades will be handled by the instructor. Appeals for homework and programming projects grades will be handled by the TA who graded your work. If you disagree with TA’s decision, you may appeal to the instructor within __ONE WEEK__ of receiving TA’s decision.
 
 ### Academic Honesty
 
@@ -80,9 +81,10 @@ Homework and programming projects are individual efforts, not group efforts. Whi
 
 For programming projects, you may not
 
-write code with another student
-give code to another student (via email, printouts, etc.)
-post code in a publicly accessible location
+* write code with another student
+* give code to another student (via email, printouts, etc.)
+* post code in a publicly accessible location
+
 A student found responsible for academic dishonesty will receive zero points for the work in which the dishonesty occurred.  In addition, the student is subject to sanctions according to the university policy on academic dishonesty, which can be found [here](http://catalog.iastate.edu/academic_conduct/#academicdishonestytext).
 
 ### COVID-19 health and safety requirements

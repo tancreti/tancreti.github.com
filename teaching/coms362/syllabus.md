@@ -72,10 +72,11 @@ There will be one midterm exam and one final exam. The final exam will be given 
 
 Your letter grade in this course will be based on homework and in-class activities, a programming project, and exams.
 
-Homework and In-Class Activities	30%
-Project	30%
-Midterm exam	15%
-Final exam	25%
+* Homework and In-Class Activities	30%
+* Project	30%
+* Midterm exam	15%
+* Final exam	25%
+
 Letter grades are assigned relative to overall class performance, with borderline cases influenced by participation in class.
 
 ### Grading Questions/Errors
@@ -92,7 +93,7 @@ The project will have deliverables that need to be completed for each iteration.
 
 ### Grade Appeal Policy
 
-You may appeal a grade within ONE WEEK of grade announcement. Appeals for exam grades will be handled by the instructor. Appeals for homework and programming projects grades will be handled by the TA who graded your work. If you disagree with TA’s decision, you may appeal to the instructor within ONE WEEK of receiving TA’s decision.
+You may appeal a grade within __ONE WEEK__ of grade announcement. Appeals for exam grades will be handled by the instructor. Appeals for homework and programming projects grades will be handled by the TA who graded your work. If you disagree with TA’s decision, you may appeal to the instructor within __ONE WEEK__ of receiving TA’s decision.
 
 ### Academic Honesty
 
