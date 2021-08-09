@@ -4,7 +4,11 @@ title: COM S 352 Visual Studio Code
 class-name: COM S 352
 header: coms352-header.html
 ---
-## Visual Studio Code
+## Setup for VS Code
+
+The goal is to be able to compile and debug xv6-riscv code running in the qemu emulator. You are welcome to experiement with different development setups, however the class staff only support the following setup.
+
+These instruction work for Linux, Mac and Window >10.
 
 ### 1. Download and Install
 
@@ -18,6 +22,7 @@ Add the following local extensions.
 
 ### 3. Prepare pyrite.cs.iastate.edu
 
+Open a terminal and begin an ssh session.
 ```sh
 ssh username@pyrite.cs.iastate.edu
 ```
@@ -26,15 +31,13 @@ ssh username@pyrite.cs.iastate.edu
 git clone git://github.com/mit-pdos/xv6-riscv.git
 ```
 
-### 4. Connect to pyrite.cs.iastate.edu
+### 4. Connect VS Code to pyrite.cs.iastate.edu
 
-Connect to pyrite.cs.iastate.edu.
-
-Open Remote Explorer
+In VS Code, select Open Remote Explorer.
 
 Right click on pyrite.cs.iastate.edu -> xv6-riscv and open in current window.
 
-### 5. 
+### 5. Configure the VS Code Project
 
 Open Explorer.
 
