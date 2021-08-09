@@ -3,5 +3,13 @@ layout: default
 title: Links
 ---
 
-[Neopythia](http://neopythia.com)
+### Iowa State
+
+[Schedule of Classes](https://classes.iastate.edu/)
+
+[Academic Calendar](https://www.registrar.iastate.edu/calendar)
+
+### Consulting
+
+[Neopythia Consulting](http://neopythia.com)
 
