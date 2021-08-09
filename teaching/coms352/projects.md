@@ -9,4 +9,4 @@ header: coms352-header.html
 
 The projects will involve making modificaitons and extensions to the [xv6-riscv](https://github.com/mit-pdos/xv6-riscv) OS. 
 
-The recommend devleopment environment is [Visual Studio Code](visual-studio-code).
+The recommend devleopment environment is Visual Studio Code, setup instructions are [here](visual-studio-code).
