@@ -21,6 +21,6 @@ header: coms352-header.html
 | Week 10<br>Nov 1-5<br>     | File System Implementation                | Ch. 40 and 41            |          |
 | Week 11<br>Nov 8-12<br>    | SSD<br>Introduction to Security           | Ch. 44<br>\[Thompson84\] |          |
 | Week 12<br>Nov 15-19<br>   | Operaity Systems Security                 | \[Pfleeger15\]           |          |
-| Week 13<br>Apr 22-26<br>   | Thanksgiving break<br>No classes          |                          |          |
+| Week 13<br>Nov 22-26<br>   | Thanksgiving break<br>No classes          |                          |          |
 | Week 14<br>Nov 29-3<br>    | Networking<br>Distributed Ssytems         | \[Peterson15\]<br>Ch. 48 |          |
 | Week 15<br>Dec 6-10<br>    | NFS<br>Exam Review                        | Ch. 49                   |          |
